@@ -4,4 +4,4 @@ torch>=2.2.2,<2.3
 opencv-python-headless>=4.10.0.0
 Pillow
 # используем ZIP‑архив вместо git+ для обхода промпта
-https://github.com/naklecha/clothing-segmentation/archive/refs/heads/main.zip
+https://github.com/naklecha/clothing-segmentation/archive/refs/heads/master.zip
