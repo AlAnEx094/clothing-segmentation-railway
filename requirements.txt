@@ -3,4 +3,5 @@ uvicorn[standard]==0.29.0
 torch>=2.2.2,<2.3
 opencv-python-headless>=4.10.0.0
 Pillow
+clothing-segmentation @ git+https://github.com/naklecha/clothing-segmentation.git@main
 https://codeload.github.com/naklecha/clothing-segmentation/zip/refs/heads/master
