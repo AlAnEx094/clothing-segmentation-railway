@@ -1,6 +1,7 @@
 fastapi==0.110.2
 uvicorn[standard]==0.29.0
 torch>=2.2.2,<2.3
+torchvision>=0.17,<0.18
 opencv-python-headless>=4.10.0.0
 Pillow
-clothing-segmentation @ git+https://github.com/GoGoDuck912/Self-Correction-Human-Parsing.git@master
+numpy
